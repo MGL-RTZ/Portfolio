@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This is where I showcase my projects and dem
 
 ## About Me
 
-[Your introduction will go here]
+[I a mechanical engineer pasionate about coding, specifically automating and finance. I am trying to transition towards a career in quantitative finance so I will be adding projects here to demonstrate marquetable skils]
 
 ## Projects
 
